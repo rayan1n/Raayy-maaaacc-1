@@ -1,11 +1,24 @@
-<div align="center">
+# Ray Controller Macro - Professional Edition
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+تطبيق احترافي مخصص لمحترفي لعبة Fortnite على منصة الـ PC باستخدام يد التحكم (Sony / Xbox).
 
-  <h1>Built with AI Studio</h2>
+## المميزات
+- **Auto-Edit (Macro):** يقوم بعمل ريستارت، فتح التحديد، والتأكيد بضغطة واحدة فقط.
+- **Instant Reset:** إعادة البناء لوضعه الأصلي فوراً بلمسة زر.
+- **Antiban Shield:** نظام حماية متقدم يحاكي الضغطات البشرية لتجنب أنظمة الكشف.
+- **Zero Latency:** معالجة فورية للمدخلات بدون أي تأخير.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## طريقة الاستخدام
+1. قم بتوصيل يد التحكم (سوني أو إكسبوكس) بالكمبيوتر.
+2. افتح البرنامج وتوجه إلى قسم "تخصيص الأزرار".
+3. اضغط على الزر المراد برمجته في الشاشة، ثم اضغط الزر المقابل له في يد التحكم.
+4. تأكد من تفعيل البرنامج (زر "نشط" في القائمة الجانبية).
+5. استمتع بسرعة تحرير خيالية!
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## المتطلبات
+- نظام تشغيل Windows 10/11.
+- متصفح يدعم Gamepad API (في حال تشغيله كنسخة ويب) أو تشغيل ملف الـ EXE مباشرة.
 
-</div>
+---
+**Developed by Ray Dev Team**
+*جميع الحقوق محفوظة 2024*
